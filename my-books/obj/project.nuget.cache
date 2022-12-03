@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CNsBos9JjjJD2VR2lScdXcdn9F5cGzRFAqAoHh/VYrhuao03RUekL+D5DAwoo0hekERAhjGGg/z8I5mq4Z+LXQ==",
+  "dgSpecHash": "MElFXXaRk+/Y6wI9V+KD2u890qeWRZBb+VlKIcmrgPJmHiotsNHC5LMnQKDCblejXJGNNiHVgxh/j9/V5AkH+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\hayk.poghosyan\\source\\repos\\my-books\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
@@ -65,7 +65,6 @@
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
-    "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
     "C:\\Users\\hayk.poghosyan\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
