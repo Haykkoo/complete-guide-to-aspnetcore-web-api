@@ -73,8 +73,6 @@ namespace my_books.Data.Services
                 _book.Genre = book.Genre;
                 _book.CoverUrl = book.CoverUrl;
                 _book.DateAdded = DateTime.Now;
-                _book.DateAdded = DateTime.Now;
-
                 _context.SaveChanges();
             }
             return _book;
